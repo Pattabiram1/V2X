@@ -41,4 +41,5 @@ From your **ns-3.38 root directory**:
 
 ```bash
 # build the program
-./ns3 build scratch/v2x-sim-realtime-fixed.cc
+./ns3 build scratch/V2X-Main.cc
+./ns3 run scratch/V2X-Main.cc
