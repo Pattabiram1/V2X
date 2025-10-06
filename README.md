@@ -42,4 +42,5 @@ From your **ns-3.38 root directory**:
 ```bash
 # build the program
 ./ns3 build scratch/V2X-Main.cc
+# Run the program
 ./ns3 run scratch/V2X-Main.cc
